@@ -1,4 +1,4 @@
-# Lords of the Polywarphism
+# Lords of Polywarphism
 
 Bu proje, 2-boyutlu bir dünyada çok oyunculu bir savaş oyununu simüle eder ve Python programlama dili kullanılarak yazılmıştır.
 
